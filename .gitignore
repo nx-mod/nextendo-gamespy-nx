@@ -1,0 +1,5 @@
+/server
+/nextendo-gamespy-nx
+*.out
+*.pem
+.env
