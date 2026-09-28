@@ -1,5 +1,7 @@
 # nextendo-gamespy-nx
 
+**A new service implementation by nx-mod** for the Nextendo Network.
+
 The **GameSpy / Nintendo Wi-Fi Connection (NWFC)** backend for [Nextendo Network](https://nextendo.network). Source only. Not affiliated with Nintendo or GameSpy.
 
 ## Why
