@@ -36,3 +36,7 @@ DNS/sni-router must send `nas.nintendowifi.net` (and the `*.gamespy.com` / `*.ni
 - **[OpenSpy](https://github.com/openspy)** — GameSpy service reference.
 
 Protocol facts were read and reimplemented; no code was copied.
+
+## Credits
+
+Built by nx-mod for the **Nextendo Network**, on the work of the Nextendo Network team — https://nextendo.network. Nextendo is awesome.
